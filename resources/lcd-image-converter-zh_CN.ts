@@ -816,6 +816,7 @@
         <translation>输出二进制结果的完整 &lt;path&gt;（路径）。</translation>
     </message>
 </context>
+<context>
     <name>Data::Models::ImagesAlignedProxy</name>
     <message>
         <source>Original size</source>

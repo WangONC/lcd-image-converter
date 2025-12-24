@@ -379,12 +379,14 @@ win32 {
     OTHER_FILES += win-res.rc
 }
 
-TRANSLATIONS = resources/lcd-image-converter-ru.ts
+TRANSLATIONS = resources/lcd-image-converter-ru.ts \
+               resources/lcd-image-converter-zh_CN.ts
 
 OTHER_FILES += \
     resources/image.tmpl \
     resources/font.tmpl \
     resources/lcd-image-converter-ru.ts \
+    resources/lcd-image-converter-zh_CN.ts \
     win-res.rc \
     README \
     readme.md \
